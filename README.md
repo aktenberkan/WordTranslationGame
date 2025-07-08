@@ -14,10 +14,9 @@ It tests your knowledge by giving you words to translate.
 
 1. Clone this repo:
 git clone https://github.com/aktenberkan/WordTranslationGame.git
-2. Compile using g++:
-g++ homeWork1.cpp -o WordTranslationGame
+2. Compile using c++:
+
 3. Run:
-./WordTranslationGame
 
 ## 📝 License
 
